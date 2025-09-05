@@ -14,7 +14,7 @@
     "allowOffline": false
   },
   {
-    "id":"any",
+    "id":"any_phone",
     "username": "mwanga",
     "password": "123456",
     "expiresAt": "2025-11-30",
